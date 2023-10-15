@@ -5,9 +5,9 @@ enum boolean{f,t};
 
 int main()
 {
-	// enum data type 
-	cout<<"I am Prince Solanki "<<endl;
-	cout<<"En_no    220130318032 "<<endl;
+	// enum data type  
+	cout<<"I am Bheda Dhruv"<<endl;
+	cout<<"En_no    220130318012 "<<endl;
 	cout<<"---------------------"<<endl;
 	cout<<"Enter the false or true : "<<endl;
 	cout<<"False  "<<f<<endl;
