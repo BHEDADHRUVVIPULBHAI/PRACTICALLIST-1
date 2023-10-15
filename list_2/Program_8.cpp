@@ -5,8 +5,8 @@ main()
 {
 	// function setw,stefill,endl,setprecision
 	  float km;
-	  cout<<"I am Prince Solanki "<<endl;
-		cout<<"En_no    220130318032 "<<endl;
+	  cout<<"I am Bheda Dhruv "<<endl;
+		cout<<"En_no    220130318012 "<<endl;
 		cout<<"---------------------"<<endl;
 	  cout<<"Enter the Kilometer :  ";
 	  cin>>km;
