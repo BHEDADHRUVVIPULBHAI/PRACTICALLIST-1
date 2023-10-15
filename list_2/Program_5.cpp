@@ -5,8 +5,8 @@ int main()
 {
 	// function setw & endl
 	float m = 3.14567;
-	cout<<"I am Prince Solanki "<<endl;
-	cout<<"En_no    220130318032 "<<endl;
+	cout<<"I am Bheda Dhruv "<<endl;
+	cout<<"En_no    220130318012 "<<endl;
 	cout<<"---------------------"<<endl;
 	//cout<<"The Value of A is ::"<<m;
  	cout<<"This is for function setprecision : "<<setprecision(3)<<m; // function setw 
